@@ -14,5 +14,6 @@ public class GitText {
         System.out.println("master commit");
         System.out.println("hello git2");
         System.out.println("push github");
+        System.out.println("pull github");
     }
 }
