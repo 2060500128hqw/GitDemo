@@ -12,5 +12,6 @@ public class GitText {
         }
         System.out.println("hello git1");
         System.out.println("master commit");
+        System.out.println("hello git2");
     }
 }
